@@ -1,20 +1,20 @@
-/ * A licença MIT (MIT)
+/*The MIT License (MIT)
 Copyright (c) 2015 CodSec
-É garantida a permissão, gratuitamente, para qualquer pessoa obter uma cópia
-deste software e arquivos de documentação associada (o "Software"), para lidar
-no Software sem restrições, incluindo, sem limitação, os direitos
-para usar, copiar, modificar, fundir, publicar, distribuir, sublicenciar e/ou vender
-cópias do Software e para permitir que as pessoas a quem o Software é
-mobiliado para fazê-lo, nas seguintes condições:
-O aviso de copyright acima e este aviso de permissão devem ser incluídas em todos os
-cópias ou partes substanciais do Software.
-O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
-IMPLÍCITAS, INCLUINDO MAS NÃO LIMITADO ÀS GARANTIAS DE COMERCIALIZAÇÃO,
-ADEQUAÇÃO A UM PROPÓSITO PARTICULAR E NÃO INFRAÇÃO. EM NENHUM CASO A
-AUTORES OU TITULARES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANO OU OUTRO
-RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO, ATO ILÍCITO OU NÃO, DECORRENTES,
-DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS TRANSAÇÕES NA
-SOFTWARE.* /
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.*/
 
 // ==UserScript==
 // @name        DevBot
